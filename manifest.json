@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "version": "2.5.2",
+  "name": "Minimalist Ultramarine",
+  "description": "Minimalist Ultramarine: By Miguel Euraque",
+  "author": "Miguel Euraque",
+  "theme": {
+    "colors": {
+      "frame": [156, 172, 236],
+      "frame_inactive": [156, 172, 236],
+      "frame_incognito": [32, 33, 36],
+      "frame_incognito_inactive": [60, 64, 67],
+      "background_tab": [156, 172, 236],
+      "background_tab_inactive": [156, 172, 236],
+      "background_tab_incognito": [32, 33, 36],
+      "background_tab_incognito_inactive": [60, 64, 67],
+      "bookmark_text": [58, 62, 65],
+      "tab_background_text": [60, 64, 67],
+      "tab_background_text_inactive": [102, 106, 109],
+      "tab_background_text_incognito": [189, 193, 198],
+      "tab_background_text_incognito_inactive": [167, 171, 174],
+      "tab_text": [60, 64, 67],
+      "toolbar": [210, 217, 244],
+      "toolbar_button_icon": [0, 0, 0],
+      "omnibox_text": [32, 33, 36],
+      "omnibox_background": [242, 244, 253],
+      "ntp_background": [210, 217, 244],
+      "ntp_text": [60, 64, 67],
+      "ntp_link": [156, 172, 236],
+      "ntp_section": [255, 255, 255],
+      "button_background": [156, 172, 236]
+    }
+  }
+}
