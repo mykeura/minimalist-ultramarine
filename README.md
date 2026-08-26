@@ -1,4 +1,4 @@
-# Minimalist Ultramarine 🔷
+# Minimalist Ultramarine
 
 A minimal Chrome theme in a light, calm palette, by Miguel Euraque.
 
